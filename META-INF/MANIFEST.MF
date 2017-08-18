@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_06 (josef Leyva)
+Name: xizuth/ohm_law/
+Specification-Title: Utility Classes Electronic
+Specification-Version: 1.0
+Specification-Vendor: JOSEF LEYVA INC
+Implementation-Title: xizuth.ohm_law
+Implementation-Version: build01

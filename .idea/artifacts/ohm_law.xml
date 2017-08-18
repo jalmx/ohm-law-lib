@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ohm_law">
+    <output-path>$PROJECT_DIR$/out/artifacts/ohm_law</output-path>
+    <root id="archive" name="ohm_law.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ohm_law" />
+      <element id="module-output" name="ohm_law_main" />
+    </root>
+  </artifact>
+</component>
