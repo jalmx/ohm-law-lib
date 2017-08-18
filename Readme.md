@@ -30,7 +30,7 @@ double resistance = 100; // 100 ohms
 
 double voltagetValue =  Voltage.calculateVoltage(current, resistance);
 
-System.out.println("Value voltage " + currentValue);
+System.out.println("Value voltage " + voltagetValue);
 
 
 ```
@@ -43,9 +43,9 @@ double voltage = 10; //10V
 double current = 0.01; // 10 mAmp
 
 
-double currentValue =  Resistance.calculateResistance(volage, current);
+double resistnaceValue =  Resistance.calculateResistance(volage, current);
 
-System.out.println("Value current " + currentValue);
+System.out.println("Value current " + resistnaceValue);
 
 
 ```
