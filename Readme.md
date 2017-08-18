@@ -3,7 +3,7 @@
 Library basic for calculate ohm's law in JAVA
 
 
-## how toi use?
+## How toi use?
 
 ### For calculate Current
 
@@ -49,6 +49,6 @@ System.out.println("Value current " + resistanceValue);
 
 
 ```
-## How to install
+## How to install?
 
 Download the jar and add your project [here](https://github.com/jalmx89/ohm-law/tree/master/out/artifacts/ohm_law)
