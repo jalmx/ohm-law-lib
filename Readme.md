@@ -43,9 +43,9 @@ double voltage = 10; //10V
 double current = 0.01; // 10 mAmp
 
 
-double resistnaceValue =  Resistance.calculateResistance(volage, current);
+double resistanceValue =  Resistance.calculateResistance(volage, current);
 
-System.out.println("Value current " + resistnaceValue);
+System.out.println("Value current " + resistanceValue);
 
 
 ```
