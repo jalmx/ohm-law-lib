@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Created-By: 1.7.0_06 (josef Leyva)
+Created-By: 1.6 (Josef Leyva)
 Name: xizuth/ohm_law/
 Specification-Title: Utility Classes Electronic
 Specification-Version: 1.0
