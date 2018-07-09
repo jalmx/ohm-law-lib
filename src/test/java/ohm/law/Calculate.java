@@ -59,9 +59,9 @@ public class Calculate {
         double resistance = 100;
         double voltage = 10;
 
-        double actualVoltage = Power.powerForVoltage(current,resistance);
+        double actualVoltage = Power.powerForVoltage(current, resistance);
         double actualCurrent = Power.powerForCurrent(voltage, resistance);
-        double actualResistance = Power.powerForResistance(voltage,current);
+        double actualResistance = Power.powerForResistance(voltage, current);
 
         assertEquals("Fail to calculate power without voltage ", expectedVoltage, actualVoltage, 1);
         assertEquals("Fail to calculate power without current", expectedCurrent, actualCurrent, 1);
