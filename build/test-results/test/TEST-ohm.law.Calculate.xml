@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohm.law.Calculate" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-07-09T21:55:43" hostname="Josefs-MacBook-Pro.local" time="0.043">
+  <properties/>
+  <testcase name="calculateVoltageTest" classname="ohm.law.Calculate" time="0.007"/>
+  <testcase name="calculatePowerTest" classname="ohm.law.Calculate" time="0.005"/>
+  <testcase name="calculateCurrentTest" classname="ohm.law.Calculate" time="0.003"/>
+  <testcase name="calculateResistanceTest" classname="ohm.law.Calculate" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

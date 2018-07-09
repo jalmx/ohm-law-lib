@@ -3,7 +3,7 @@
 Library basic for calculate ohm's law in JAVA
 
 
-## How toi use?
+## How to use?
 
 ### For calculate Current
 
